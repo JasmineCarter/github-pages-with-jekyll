@@ -1,15 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Champagne & Coding
+author: Jasmine Carter
+email: jlcart6@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog is all about me, along with two of my favorite things...champagne and coding! I have a 6 year old french bulldog, pizza makes me happy and fuzzy socks and movies make the happiest! 
+  
+  I have spent the last 10 years of my career in finance, where I've gained interpersonal skills, experiences in problem solving and adaptable communication. I was finding a lack of challenges and each day my desire to be more creative grew.
+  
+  That's when I decided to go to the We Can Code It Bootcamp and I immediately got to experience and fulfill all the challenges I have been wanting from day one. I am getting training in computational thinking, back end computer programming and front end web development.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+linkedin_username: JasmineCarter927
+github_username:  JasmineCarter
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-architect
+theme: minima
